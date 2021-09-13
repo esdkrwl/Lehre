@@ -1,0 +1,14 @@
+﻿Name;Größe;Vorname;Nachname;Downloads;Datum;Pfad
+led_esp32_beispiel.ino;462;Anatolij;Fandrich;9;"28.05.2019 11:40";MQTT/led_esp32_beispiel.ino
+mqtt_esp32_publish.ino;3771;Anatolij;Fandrich;5;"28.05.2019 11:38";MQTT/mqtt_esp32_publish.ino
+mqtt_esp32_wetter_bsp.ino;2270;Anatolij;Fandrich;8;"28.05.2019 11:45";MQTT/mqtt_esp32_wetter_bsp.ino
+weather-conditions;;Anatolij;Fandrich;1;"28.05.2019 11:46";MQTT/weather-conditions
+Beispiel1.ino;3192;Anatolij;Fandrich;11;"14.05.2019 11:45";"Server Client Kommunikation/Beispiel1.ino"
+ESP32-Pinout-Ref;;Anatolij;Fandrich;1;"14.05.2019 12:07";"Server Client Kommunikation/ESP32-Pinout-Ref"
+WiFiClientBsp.ino;1624;Anatolij;Fandrich;7;"14.05.2019 11:55";"Server Client Kommunikation/WiFiClientBsp.ino"
+WiFiServerBsp.ino;1828;Anatolij;Fandrich;6;"14.05.2019 11:54";"Server Client Kommunikation/WiFiServerBsp.ino"
+DDI-070519.pdf;254121;Anatolij;Fandrich;24;"07.05.2019 12:10";DDI-070519.pdf
+IoT-Seminar210519.pdf;527305;Anatolij;Fandrich;16;"21.05.2019 12:15";IoT-Seminar210519.pdf
+rest.ino;3838;Anatolij;Fandrich;8;"21.05.2019 12:13";rest.ino
+Seminarvorstellung.pdf;561581;Anatolij;Fandrich;14;"02.04.2019 14:51";Seminarvorstellung.pdf
+uC+Funk.pdf;442257;Anatolij;Fandrich;13;"09.04.2019 12:09";uC+Funk.pdf
