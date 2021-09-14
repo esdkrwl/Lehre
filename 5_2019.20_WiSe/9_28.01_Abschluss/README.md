@@ -1,6 +1,6 @@
 
 [Entwurf und Bau eines MP3-Players](https://wp.uni-oldenburg.de/physical-computing-und-digital-fabrication-im-informatikunterricht-wise20192020-mwortmann/):
-![MP3-Player](https://github.com/esdkrwl/Lehre/blob/main/5_2019.20_WiSe/9_28.01_Abschluss/Bilder/mp3.jpg)
+![MP3-Player](https://github.com/esdkrwl/Lehre/blob/main/5_2019.20_WiSe/9_28.01_Abschluss/Bilder/mp3.jpg |width=100)
 
 Bei dem Projekt geht es darum einen MP3-Player zu bauen. Dazu werden verschiedene Hardwarekomponenten benötigt und müssen über einen Microcontroller gesteuert werden. Dabei ist auch die Grafische Ausgabe auf einem Display wichtig. Anschließend soll noch ein Gehäuse, mittels Zeichensoftware, entworfen und gebaut werden, sodass das Projekt tragbar ist.
 
