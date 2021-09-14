@@ -1,9 +1,15 @@
 
-[Entwurf und Bau eines MP3-Players](https://wp.uni-oldenburg.de/physical-computing-und-digital-fabrication-im-informatikunterricht-wise20192020-mwortmann/): Bei dem Projekt geht es darum einen MP3-Player zu bauen. Dazu werden verschiedene Hardwarekomponenten benötigt und müssen über einen Microcontroller gesteuert werden. Dabei ist auch die Grafische Ausgabe auf einem Display wichtig. Anschließend soll noch ein Gehäuse, mittels Zeichensoftware, entworfen und gebaut werden, sodass das Projekt tragbar ist.
+[Entwurf und Bau eines MP3-Players](https://wp.uni-oldenburg.de/physical-computing-und-digital-fabrication-im-informatikunterricht-wise20192020-mwortmann/):
+![MP3-Player](https://github.com/esdkrwl/Lehre/blob/main/5_2019.20_WiSe/9_28.01_Abschluss/Bilder/mp3.jpg)
 
-[Der digitale Cloud-Bilderrahmen](https://wp.uni-oldenburg.de/physical-computing-und-digital-fabrication-im-informatikunterricht-wise20192020-dstegemann/): Durch den digitalen Cloud Bilderrahmen können Familienmitglieder ihre Fotos schnell und einfach auf einem Display darstellen. Der eingebaute Raspberry Pi synchronisiert automatisch die Fotos aus der Cloud und zeigt diese als Diashow über das Display an. So können die Großeltern trotz großer Distanzen und wenig Verständnis von Technik aktuelle Bilder der Familie sehen.
+Bei dem Projekt geht es darum einen MP3-Player zu bauen. Dazu werden verschiedene Hardwarekomponenten benötigt und müssen über einen Microcontroller gesteuert werden. Dabei ist auch die Grafische Ausgabe auf einem Display wichtig. Anschließend soll noch ein Gehäuse, mittels Zeichensoftware, entworfen und gebaut werden, sodass das Projekt tragbar ist.
+
+[Der digitale Cloud-Bilderrahmen](https://wp.uni-oldenburg.de/physical-computing-und-digital-fabrication-im-informatikunterricht-wise20192020-dstegemann/):
+
+Durch den digitalen Cloud Bilderrahmen können Familienmitglieder ihre Fotos schnell und einfach auf einem Display darstellen. Der eingebaute Raspberry Pi synchronisiert automatisch die Fotos aus der Cloud und zeigt diese als Diashow über das Display an. So können die Großeltern trotz großer Distanzen und wenig Verständnis von Technik aktuelle Bilder der Familie sehen.
 
 [Die smarte Bewässerung](https://wp.uni-oldenburg.de/physical-computing-und-digital-fabrication-im-informatikunterricht-wise20192020-gschlaefke/):
+
 Der smarte Bewässerungscomputer wurde entwickelt, um die Bewässerung von Gartenpflanzen effektiver zu gestallten. Der Bewässerungscomputer verfügt über einen Feuchtigkeitssensor, der in festgelegten Zeitabständen die Bodenfeuchtigkeit misst. Fällt die Feuchtigkeit unter einen bestimmten Wert, öffnet sich ein Kugelventil und die Pflanzen werden bewässert. Das Kugelventil ermöglicht dabei die Nutzung auch bei niedrigem Wasserdruck, wodurch der Bewässerungscomputer sowohl am Wasserhahn als auch an Regentonnen verwendet werden kann. Über den Schlauchanschluss lassen sich verschiedene Bewässerungssysteme mit dem System verbinden. Der Bewässerungscomputer arbeitet mit zwei AA Batterien, wodurch dieser unabhängig vom Stromnetz zu betreiben ist. Der smarte Bewässerungscomputer ist somit vielseitig und individuell einsetzbar.
 
 Die smarte Wanduhr [(Teil 1)](https://wp.uni-oldenburg.de/physical-computing-und-digital-fabrication-im-informatikunterricht-wise20192020-dstalhut/)
